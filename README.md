@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H4CK3R-5M4CK3R
 - 👀 I’m interested in Automation, AI, ML, Robotics, Web Scraping
-- 🌱 I’m currently learning Java and AI, ML
+- 🌱 I’m the founder of @LogicSpine (logicspine.in)
 - 💞️ I’m looking to collaborate on Python, AI, Automation, Robotics, Web Scraping
 - 📫 You can contact me on Telegram Here is Username : @H4CK3R_5M4CK3R
